@@ -1,2 +1,2 @@
 # centos-build
-build enveironment for centos
+Build environment (docker) for centos.
